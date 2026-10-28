@@ -1,0 +1,17 @@
+# データ・学習済みモデル（サイズが大きい／口コミの転載を避けるためコミットしない）
+*.csv
+*.model
+*.model.*
+*.npy
+*.pkl
+sake_review_analysis/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
