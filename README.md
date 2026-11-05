@@ -12,7 +12,7 @@
 | 01 | `01_scrape_reviews.ipynb` | Playwright + BeautifulSoup で口コミを収集 |
 | 02 | `02_scrape_maker_address_and_water_hardness.ipynb` | 蔵元の所在地と水道水の硬度を収集 |
 | 03 | `03_parse_review_text.ipynb` | 口コミ文字列を項目ごとに分解 |
-| 03b | 03b_merge_water_hardness.ipynb | 蔵元の住所と水道水データを結合し、口コミに水の硬度を付与 |
+| 03b | `03b_merge_water_hardness.ipynb` | 蔵元の住所と水道水データを結合し、口コミに水の硬度を付与 |
 | 04 | `04_preprocess_tokenize.ipynb` | 地名のマスキング + Sudachi による分かち書き |
 | 05 | `05_train_doc2vec.ipynb` | Doc2Vec で銘柄ベクトルを学習 |
 | 06 | `06_analysis_visualization.ipynb` | k-means・PCA による味わいマップ、レーダーチャート、水の硬度の検証 |
