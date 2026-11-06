@@ -31,4 +31,6 @@ Python / Playwright / BeautifulSoup / pandas / Sudachi / gensim (Doc2Vec) / scik
 
 - 口コミは [SAKETIME](https://www.saketime.jp/) から、サーバーに負荷をかけないよう間隔を空けて、個人の学習・分析目的で取得しました。
 - 口コミの本文・取得したデータは公開していません。
+- データの取得時期は2026年6月30日時点です。
+- 動作環境、バージョンの違い等により一部数値に誤差が生じる場合があります。
 - 本リポジトリは個人のポートフォリオです。
